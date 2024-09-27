@@ -4,7 +4,7 @@
 
 This project involves exploratory data analysis (EDA) and hypothesis testing on the Yulu Bike Sharing dataset. The primary objective is understanding the factors influencing bike rentals and providing actionable recommendations to optimize the bike-sharing service.
 
-## Key Insights
+## Key Insight
 
 1. **Seasonal Preferences**:
    - Summer and fall seasons see higher bike rentals compared to other seasons.
